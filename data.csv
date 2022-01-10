@@ -1,0 +1,625 @@
+,companyIdEu,companyName,companyIdMain
+0,1,Vikingbet,0
+1,2,Betfair,0
+2,4,Nordicbet,0
+3,9,Centrebet,0
+4,12,BetClass,0
+5,16,10BET,22
+6,18,12bet,24
+7,19,PAF,0
+8,27,Maxi-tip,0
+9,30,Sazka,0
+10,32,Betsson Exchang,0
+11,33,Redbet,0
+12,34,Fortuna,0
+13,38,Tipsport-Sk,0
+14,40,Mediabet,0
+15,54,BETDAQ,0
+16,55,TotoMix,0
+17,56,BETCRIS,0
+18,60,STS,0
+19,64,Canbet,0
+20,65,Globet,0
+21,70,Expekt,0
+22,71,Eurobet,0
+23,73,Fonbet,0
+24,80,Macauslot,1
+25,81,Vcbet,14
+26,82,Ladbrokes,4
+27,87,GoldBet,0
+28,88,Coral,0
+29,90,Easybets,12
+30,97,Nike,0
+31,98,LinesMaker,0
+32,100,Stan James,0
+33,103,Europlay,0
+34,104,Interwetten,19
+35,106,TheBetArena,0
+36,110,SNAI,7
+37,113,Veikkaus,0
+38,115,William Hill,9
+39,121,Synot TIP,0
+40,124,StarPrice,0
+41,127,Wettpunkt,0
+42,128,Tote,0
+43,130,CaribSports,0
+44,133,Toals,0
+45,134,Admiral,0
+46,135,WSEX,0
+47,136,BoDog,0
+48,145,Tipsport,0
+49,146,Intertops,0
+50,153,Wilson,0
+51,156,Betfred,0
+52,158,Gamebookers,0
+53,159,GWbet,0
+54,161,Pianeta Scommesse,0
+55,165,Primebet,0
+56,167,skybet,0
+57,171,Bets4all.com,0
+58,173,Bet-at-home,0
+59,176,Betinternet,0
+60,177,Pinnacle,47
+61,178,Yabet,0
+62,180,Norway,0
+63,182,IASbet,0
+64,185,Iceland,0
+65,200,BetSense,0
+66,232,Sports.com,0
+67,239,VIP Sports,0
+68,255,Bwin,0
+69,261,Blue Square,0
+70,264,Sportfanatik,0
+71,266,wetten.de,0
+72,277,Bet24,0
+73,281,Bet 365,8
+74,282,betoto.com,0
+75,307,Scandic Bookmakers,0
+76,315,Victory,0
+77,351,Hititbet,0
+78,352,Matchbook,0
+79,354,Boylesports,0
+80,360,Astrabet,0
+81,370,Oddset,0
+82,375,TipKurz,0
+83,381,24hPoker,0
+84,382,BINGOAL,0
+85,384,Chance,0
+86,386,Unibet,0
+87,422,Sportingbet,0
+88,423,Sportsbetting,0
+89,425,SPORTSinteraction,0
+90,430,odds4you,0
+91,432,HK Jockey Club,48
+92,436,5 Dimes,0
+93,450,TOTO,0
+94,455,ScommesseAndromeda,0
+95,456,sb1888.com,0
+96,460,TotoSi,0
+97,462,Betsafe,0
+98,463,BetClick,0
+99,464,BET 1128,0
+100,466,SportBet,0
+101,474,Sbobet,31
+102,479,myBet.com,0
+103,480,Gamebookers Italia,0
+104,481,Hooball,0
+105,482,Betway,0
+106,490,Betako,0
+107,494,Betsson Sportsbook,0
+108,499,188bet,23
+109,505,Betchoice,0
+110,506,BetGun.com,0
+111,511,derby-games.com,0
+112,512,Digibet,0
+113,513,dorobet,0
+114,515,Jaxx,0
+115,517,Mansion88,17
+116,520,MeridianBet,0
+117,521,PartyBets,0
+118,526,Sunderlands,0
+119,527,Tipico,0
+120,529,TopSport,0
+121,530,Triobet,0
+122,531,WBX,0
+123,535,Betshop,0
+124,537,Bet3000,0
+125,538,BetUS,0
+126,540,Doxxbet,0
+127,544,SBG Global,0
+128,545,Crown,3
+129,548,Vierklee,0
+130,550,Completesportsbetting,0
+131,556,Wagerweb,0
+132,559,sportsbook.com,0
+133,564,Singapore Pools,0
+134,567,Miseojeu,0
+135,568,Match Point,0
+136,571,Jetbull,0
+137,572,Jazz,0
+138,573,Intralot,0
+139,574,HappyBet,0
+140,577,gioco digitale,0
+141,578,fubo.com,0
+142,580,Eurobet.it,0
+143,582,sportsbetting.com.au,0
+144,584,Balkan Bet,0
+145,588,betliner,0
+146,591,better.it,0
+147,596,LUXBET.com,0
+148,601,LEON,0
+149,604,Asiabet88,0
+150,605,BetPhoenix,0
+151,607,e-stave,0
+152,610,TheGreek.com,0
+153,613,Sportsbet,0
+154,615,24hBET,0
+155,616,888Sport,0
+156,617,Bet7days,0
+157,618,Betboo,0
+158,620,Bookmaker.com,0
+159,623,Dansk Tipstjeneste,0
+160,624,FiveBet,0
+161,628,Islenskar Getraunir,0
+162,630,Merkur-win,0
+163,632,noxwin,0
+164,641,Betaland,0
+165,642,Diamond Sportsbook Int.,0
+166,643,Evebet,0
+167,644,Flemington Sportsbet,0
+168,646,PariMatch,0
+169,648,YouWager,0
+170,649,IBCBET,0
+171,654,Betstar,0
+172,656,Pamestihima,0
+173,657,iddaa,0
+174,659,Wewbet,35
+175,660,Titanbet,0
+176,664,Betpro.it,0
+177,665,Betsson,0
+178,667,CBM Bookmaker,0
+179,669,Germania Sport,0
+180,676,Samvo,0
+181,677,Sportingbet AU,0
+182,678,Sports-1,0
+183,680,Stanleybet,0
+184,681,Startip,0
+185,686,BWin.it,0
+186,688,888.it,0
+187,689,Bet770,0
+188,695,CashPoint,0
+189,697,Goalwin,0
+190,706,Sportsbet.com.au,0
+191,708,Unibet.it,0
+192,709,BetClic.it,0
+193,713,Betting2000,0
+194,715,Bookie Bob,0
+195,717,Hrvatska Lutrija,0
+196,719,Tipos,0
+197,721,Betfair.it,0
+198,723,Bwin.fr,0
+199,729,Ifortuna.eu,0
+200,730,Jenningsbet,0
+201,732,myBet,0
+202,733,novibet,0
+203,737,SuperSport,0
+204,738,Tipsport.net,0
+205,739,Unitab,0
+206,740,ABC Islands,0
+207,741,BetAdria,0
+208,742,betclick.fr,0
+209,743,DiamondSportsBook,0
+210,745,france-pari.fr,0
+211,746,Island Casino,0
+212,749,Offsidebet,0
+213,750,Parionsweb,0
+214,751,PMU,0
+215,752,Rebatewager,0
+216,753,SAjOO,0
+217,755,youwin,0
+218,758,SAjOO.fr,0
+219,764,Gamenet,0
+220,766,Betngo,0
+221,771,Intralot Italia,0
+222,772,32Red Bet,0
+223,774,Gamblers Palace,0
+224,775,Betonline,0
+225,776,Guts,0
+226,777,1Bet,0
+227,778,Alibet,0
+228,780,BetRedKings,0
+229,791,Sisal,0
+230,794,Betpeople,0
+231,796,Bookmaker.ag,0
+232,797,Carib Sports,0
+233,798,Dafabet,0
+234,799,E6bet,0
+235,800,Marathon,0
+236,801,Milenium,0
+237,803,SuperSoccer,0
+238,804,Tempobet,0
+239,806,Eccobet,0
+240,808,Betcity,0
+241,810,Bookmaker.eu,0
+242,812,Efbet,0
+243,813,Goalbet,0
+244,814,iFortuna.sk,0
+245,816,Marathonbet,0
+246,818,tipp3,0
+247,822,Tattsbet,0
+248,823,VivaroBet,0
+249,824,Bodog.eu,0
+250,825,Sweden,0
+251,826,Paddy Power,0
+252,827,BetClic.fr,0
+253,828,Betsafe.DK,0
+254,829,BetSonic,0
+255,832,ComeOn,0
+256,834,FavBet,0
+257,835,Interwetten.it,0
+258,836,Intralot.it,0
+259,837,Mermaidbet,0
+260,838,Mooregames,0
+261,840,Skiller.it,0
+262,841,Smarkets,0
+263,842,Teambet,0
+264,843,TonyBet,0
+265,844,totesport,0
+266,845,Unibet.fr,0
+267,847,YayBet,0
+268,849,Iziplay,0
+269,850,William Hill.it,0
+270,852,as3388,0
+271,854,Denmark,0
+272,855,isibet,0
+273,856,Kajotbet,0
+274,857,Millenniumbet,0
+275,858,nikebet,0
+276,859,Paddypower.it,0
+277,863,Victoriatip,0
+278,864,Vietbet,0
+279,866,138sungame,0
+280,867,ABCmanager,0
+281,868,BGT,0
+282,870,BetChance,0
+283,871,Betcenter,0
+284,872,Betflag,0
+285,873,Betlive,0
+286,874,Bovada,0
+287,876,Centurionbet,0
+288,877,Cirsa,0
+289,878,Evona,0
+290,879,GLB,0
+291,881,Hattrick,0
+292,882,Hong Kong JC,0
+293,884,Kogler,0
+294,885,MDJS,0
+295,886,Mozzart,0
+296,887,NGG,0
+297,888,Oddsen,0
+298,889,Olimpkz,0
+299,891,Optibet,0
+300,892,OverBet24,0
+301,893,Parisport,0
+302,894,Playbet,0
+303,895,Public Bet,0
+304,896,Rebels,0
+305,897,Schwechat,0
+306,898,Sportgewin,0
+307,899,Sportna loterija,0
+308,900,Sportplus,0
+309,901,Sporttery,0
+310,902,Sporttip,0
+311,903,Stoiximan,0
+312,904,Supermatch,0
+313,905,Tabcorp,0
+314,906,Tomwaterhouse,0
+315,907,TopSportWetten,0
+316,908,Topgoal,0
+317,909,Totolotek,0
+318,910,Wettbuero,0
+319,911,com-bet.com,0
+320,912,Etoto,0
+321,913,Offside,0
+322,914,uwin.com,0
+323,916,Betsi,0
+324,918,Europe-bet,0
+325,919,Gmatic,0
+326,920,Heritage Sports,0
+327,921,Inteltek,0
+328,922,Remi,0
+329,923,Sazkashop,0
+330,924,TotalBet,0
+331,925,SprotsTAB,0
+332,929,Apollobet,0
+333,930,Adabet,0
+334,931,Cecebet,0
+335,932,Evobet,0
+336,933,bwin.es,0
+337,934,PAF.es,0
+338,936,Setantabet,0
+339,937,BetISN,0
+340,938,William Hill.es,0
+341,939,Interwetten.es,0
+342,940,Betcruise,0
+343,941,Betflag.it,0
+344,943,Bovada.lv,0
+345,944,Danske Spil,0
+346,945,Domusbet.it,0
+347,946,Fantasticwin,0
+348,947,Fivebet.it,0
+349,949,Goldenpark,0
+350,950,HeavenBet,0
+351,952,CBMsport,0
+352,954,bet-at-home.it,0
+353,956,NetBet,0
+354,957,OddsRing,0
+355,958,leaderbet,0
+356,959,sirbobet,0
+357,960,bet855,0
+358,961,championsbet,0
+359,962,agile.it,0
+360,963,betitaly.it,0
+361,964,Cirsa.it,0
+362,965,Bluebet.it,0
+363,966,SportYes.it,0
+364,967,merkur-win.it,0
+365,968,Gamenet.it,0
+366,969,sjbet,0
+367,970,winner,0
+368,971,Riche88,0
+369,972,Betrally,0
+370,973,IACS,0
+371,974,VBet,0
+372,975,Victoria-Tip,0
+373,976,18Bet,42
+374,977,88asia88,0
+375,978,Ball2win,0
+376,979,Betbutler,0
+377,980,Bet16,0
+378,981,Betin,0
+379,982,tipico.it,0
+380,983,Egobet,0
+381,984,Spreadex,0
+382,985,Vwin,0
+383,986,PlanetWin365,0
+384,987,GameLux.it,0
+385,988,Betfair SB,0
+386,989,BetuniQ,0
+387,990,pinnbet,0
+388,991,Netbet.fr,0
+389,992,Luckia.es,0
+390,993,JoinBet,0
+391,994,SmartLiveSports,0
+392,995,BizonBet,0
+393,996,CMD368.com,0
+394,997,Norsk tipting,0
+395,998,Seanie Mac,0
+396,999,Mobibet,0
+397,1000,GSNetwork,0
+398,1002,Starpricebet,0
+399,1003,Mcbookie,0
+400,1004,Instant Action Sports,0
+401,1005,Wilsonbet,0
+402,1006,Contorabet,0
+403,1007,Gobetgo,0
+404,1008,Betbright,0
+405,1009,Balkanbet.rs,0
+406,1010,Betcenter.be,0
+407,1011,FDJ,0
+408,1012,SuperLenny,0
+409,1015,99Bet,0
+410,1016,Bet2be,0
+411,1017,BetVictor,0
+412,1018,Kashmobet,0
+413,1019,Singbet,0
+414,1020,Sportium,0
+415,1021,Sportsbook.ag,0
+416,1022,The Greek,0
+417,1023,UEDBET,0
+418,1024,Victor Chandler,0
+419,1027,666Bet,0
+420,1028,18luck,0
+421,1029,G England Johns,0
+422,1030,RB88,0
+423,1032,HollywoodBets,0
+424,1033,Macau Slot,0
+425,1034,CBCX,0
+426,1035,Bet90,0
+427,1036,Betfair AUS,0
+428,1037,BetRoyal.com,0
+429,1039,w88,0
+430,1043,Ba112win,0
+431,1046,Svenska Spel,0
+432,1047,1xBet,0
+433,1048,1Bet2Bet.com,0
+434,1049,Admiral.at,0
+435,1050,Agile,0
+436,1051,Bet-at-home.uk,0
+437,1052,BetAdonis,0
+438,1053,Betcentershops,0
+439,1054,Betfair ES Sportsbook,0
+440,1055,Betfair Exchange,0
+441,1056,Betfair IT Sportsbook,0
+442,1057,Betfair UK Sportsbook,0
+443,1058,Betitaly,0
+444,1059,Gazzabet,0
+445,1060,GentingBet,0
+446,1061,Leijonakasino,0
+447,1062,Paradisewin,0
+448,1063,SamvoBetBroker,0
+449,1064,Stanleybet.it,0
+450,1065,Starbet.be,0
+451,1066,Veikkaushuone,0
+452,1067,Vernons,0
+453,1068,Vipstakes,0
+454,1069,Winamax.fr,0
+455,1070,WinlineBet,0
+456,1071,Winmasters,0
+457,1072,X-TiP,0
+458,1073,Zebet.fr,0
+459,1074,Winamax,0
+460,1075,Vitalbet,0
+461,1076,LUXBET,0
+462,1077,Sportingbet.vu,0
+463,1078,Realdealbet,0
+464,1079,Propawin,0
+465,1080,Partypoker,0
+466,1081,Krooncasino,0
+467,1082,Jojobet,0
+468,1083,Dhoze,0
+469,1084,Bitcasino,0
+470,1085,Betsolo,0
+471,1086,2winbet.gr,0
+472,1087,ArtemisBet,0
+473,1088,Tiplix,0
+474,1089,888Sport.es,0
+475,1090,Betmira,0
+476,1091,ExclusiveBet,0
+477,1092,Otobet,0
+478,1093,Playros,0
+479,1094,Betswar,0
+480,1095,TipKurz.sk,0
+481,1096,Betboro,0
+482,1097,Intragame,0
+483,1098,Bethard,0
+484,1099,BetOlimp,0
+485,1100,Batano.ro,0
+486,1101,Betcart,0
+487,1102,Betmonsters,0
+488,1103,Leovegas,0
+489,1104,Liga Stavok,0
+490,1105,Marcaapuestas,0
+491,1106,Sekabet,0
+492,1107,Sisal.it,0
+493,1108,Tipbet,0
+494,1109,Titanbey.es,0
+495,1110,Villabet,0
+496,1111,Uonbet,0
+497,1112,Wonclub,0
+498,1113,Wwin,0
+499,1114,Vonbet,0
+500,1115,Totosi.it,0
+501,1116,Titanbet.es,0
+502,1117,Stoiximan.gr,0
+503,1118,READYtoBET,0
+504,1119,ParionsSport,0
+505,1120,iFortuna.cz,0
+506,1121,Giocodigitale.it,0
+507,1122,Gazzabet.it,0
+508,1123,Bet-52,0
+509,1124,Vulkanbet,0
+510,1125,VIKS.com,0
+511,1126,OMBE2 odds,0
+512,1127,Betano.ro,0
+513,1128,Betano.pl,0
+514,1129,Lottery Official,0
+515,1130,CasinoSahara,0
+516,1131,SNAI.it,0
+517,1132,CoolBet,0
+518,1133,bet hkjc,0
+519,1135,Ladbrokes.au,0
+520,1136,LB,0
+521,1137,Mansion88.com,0
+522,1138,Austria gambling,0
+523,1139,BetEast,0
+524,1140,Gioncodigtale,0
+525,1141,Stortingbet.vu,0
+526,1142,babibet,0
+527,1143,betballer,0
+528,1144,betncatch,0
+529,1145,giocodigital.it,0
+530,1146,marsbetting,0
+531,1147,paddy power.it,0
+532,1148,Bet8,0
+533,1149,BetRebels,0
+534,1150,Bookmaker.com.au,0
+535,1151,Fast Lane Betting,0
+536,1152,GTbets,0
+537,1153,Ladbrokes.com.au,0
+538,1154,Netbet.it,0
+539,1155,Rivalo.com,0
+540,1156,Boyle Sports,0
+541,1157,777.dk,0
+542,1158,Artemis-stage,0
+543,1159,Betregal,0
+544,1160,Iforbet.pl,0
+545,1161,Marsbet,0
+546,1162,MrGreen,0
+547,1163,MrRingo,0
+548,1164,ReactSports_stage OM2,0
+549,1165,ReactSports,0
+550,1166,Royrichie,0
+551,1167,Bet25,0
+552,1168,Aycons.it,0
+553,1169,855Crown,0
+554,1170,1960bet,0
+555,1171,BetAtomic.it,0
+556,1172,Caliente,0
+557,1173,EnjoyBet,0
+558,1174,Interbet,0
+559,1175,Merrybet,0
+560,1176,MinnieBet,0
+561,1177,Mobilbet,0
+562,1178,NairaBet.com,0
+563,1179,OverPlus.it,0
+564,1180,Scommettendo,0
+565,1181,Senibet,0
+566,1182,Winga.it,0
+567,1183,Manbetx,0
+568,1184,bet777.be,0
+569,1185,dinamobet,0
+570,1186,playshangrila,0
+571,1187,wembleybet,0
+572,1188,wikkiamhill.com.au,0
+573,1189,Bet9,0
+574,1190,Bet9.ja,0
+575,1191,BetLotte,0
+576,1192,Betsport7,0
+577,1193,BettingWorld.co.za,0
+578,1194,EnergyBet,0
+579,1195,ErosBet,0
+580,1196,GiochiTelematici,0
+581,1197,K8,0
+582,1198,Luckia,0
+583,1199,LuckyFinger.it,0
+584,1200,naija4win,0
+585,1202,Tuttur.com,0
+586,1203,uBet,0
+587,1204,V9BET,0
+588,1205,SunBets.co.uk,0
+589,1206,SportPesa,0
+590,1207,ScommesseItalia,0
+591,1208,MadBookie,0
+592,1209,EnjoyBet.it,0
+593,1210,Bet9ja,0
+594,1211,Juegging,0
+595,1212,Pokerstars,0
+596,1213,Sportsbet.co.za,0
+597,1214,Sunbet.co.za,0
+598,1215,TouTou,0
+599,1216,BetXchange,0
+600,1217,365Black,0
+601,1218,SureBet247,0
+602,1219,OhmBet,0
+603,1220,Betser,0
+604,1221,zzt7 OM2,0
+605,1222,SuperBet.ro,0
+606,1223,toiximan.gr,0
+607,1224,Redzonesports,0
+608,1225,BetOnAces,0
+609,1226,BetFirst,0
+610,1227,Betevt,0
+611,1228,Wellbet,0
+612,1229,22Bet,0
+613,1230,eFortuna.ro,0
+614,1231,LeonBets,0
+615,1232,Nightrush,0
+616,1233,Williamhill.com.au,0
+617,1234,108bet,0
+618,1235,Partisbet,0
+619,1236,GIntralot Italia,0
+620,1237,Francepari,0
+621,1238,CashPoint Feed,0
+622,1239,Asianodds,0
+623,1240,KTO,0
